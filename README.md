@@ -78,3 +78,39 @@ ReactQuiz
 # RreactQuiz
 ReactQuiz
 >>>>>>> f54342ebbae0594c6d4547d4ac5c534916a8923a
+
+
+
+
+# React Quiz App 🎯
+
+This is a simple and interactive **Quiz Application** built using **React**, with state management via `useReducer` and side effects handled with `useEffect`.
+
+## 🚀 Features
+
+- Interactive multiple-choice questions
+- Real-time feedback on correct/incorrect answers
+- Score tracking
+- Clean UI with responsive design
+- Built using React hooks (`useReducer`, `useEffect`)
+- Final score summary
+- Option to restart the quiz
+
+## 🧠 Technologies Used
+
+- **React**
+- **useReducer**, **useEffect**
+- **CSS (custom styling)**
+
+## 📸 Screenshots
+
+## 🖼️ Screenshot
+
+![Quiz App Screenshot](public/screenshots/reactquiz1.png)
+
+
+## 🛠️ Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Priti13032001/RreactQuiz.git
